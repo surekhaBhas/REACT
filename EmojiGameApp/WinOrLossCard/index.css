@@ -1,0 +1,45 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.win-lose-container{
+    display:flex;
+    background-color:hwb(258 82% 0%);
+
+    border:1px solid #9796f0;
+    padding:30px;
+    border-radius:20px;
+}
+.image{
+    width:200px;
+}
+h1{
+    color:white;
+    font-size:50px;
+}
+.score{
+    color:white;
+    font-size:25px;
+    font-weight:bold;
+    
+}
+button{
+    background-color: #ffce27;
+    border:0;
+    font-weight:700;
+    padding:8px;
+    border-radius:5px;
+  
+}
+.score-display{
+    color:#6a59ff;
+    font-size:30px;
+    font-weight:bold;
+    margin-bottom:10px;
+}
+.result-display{
+    display:flex;
+    flex-direction:column;
+    align-items:center
+}

@@ -1,0 +1,21 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+nav{
+    color:white;
+    background-color:#9796f0;
+    display:flex;
+    justify-content: space-between;
+    padding:10px 40px 10px 40px;
+}
+.Logo-box{
+    display:flex;
+    align-items:center;
+}
+.score-box{
+    display:flex;
+    gap:1rem;
+    align-items:center;
+}
