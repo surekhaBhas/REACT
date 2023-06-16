@@ -1,0 +1,18 @@
+.ques-container{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:10px;
+    margin-top:10px;
+    
+}
+.icon{
+    color:#cb8805;
+    font-size:20px;
+    font-weight:bold;
+}
+.ques-ans-container{
+    border:1px solid #d7dae6;
+    border-radius:10px;
+    padding:10px;
+    margin-bottom:5px;
+}
