@@ -1,0 +1,22 @@
+.title-box{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;   
+}
+.appointmentBox{
+    display:flex;
+    flex-direction:column;
+    border:1px solid  #b5b7c4;
+    border-radius:10px;
+    padding:10px;
+}
+.tittle{
+    
+    font-weight:bold;
+}
+.Active{
+    color:goldenrod;
+}
+.InActive{
+    color:lightslategray;
+}
