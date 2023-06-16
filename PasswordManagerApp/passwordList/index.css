@@ -1,0 +1,21 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.eachPassword-container{
+    border:1px solid white;
+    padding:10px;
+    border-radius:10px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    width:200px;
+    color:white;
+}
+.details-container{
+    display:flex;
+    gap:5px;
+    align-items:center;
+    
+}
